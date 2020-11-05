@@ -48,3 +48,5 @@ http://www.tech-hall.com/%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88
  حل مشكله تكبير الشاشة ونقل الملفات
  sudo apt-get install open-vm-tools-desktop fuse
 
+spynote:
+https://www.shadowhackr.com/2020/07/spynote-64.html
