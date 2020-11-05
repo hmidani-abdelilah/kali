@@ -50,3 +50,6 @@ http://www.tech-hall.com/%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88
 
 spynote:
 https://www.shadowhackr.com/2020/07/spynote-64.html
+
+vpnkali:
+apt-get -y install  network-manager-openvpn network-manager-openvpn-gnome  network-manager-pptp network-manager-pptp-gnome  network-manager-strongswan network-manager-vpnc  network-manager-vpnc-gnome
