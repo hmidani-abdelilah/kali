@@ -37,3 +37,7 @@ noip.com
 
 Commands reference
 https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
+
+banner
+http://patorjk.com/software/taag
+https://github.com/yaronn/blessed-contrib
