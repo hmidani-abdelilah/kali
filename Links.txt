@@ -53,3 +53,6 @@ https://www.shadowhackr.com/2020/07/spynote-64.html
 
 vpnkali:
 apt-get -y install  network-manager-openvpn network-manager-openvpn-gnome  network-manager-pptp network-manager-pptp-gnome  network-manager-strongswan network-manager-vpnc  network-manager-vpnc-gnome
+
+aircrack:
+https://www.shadowhackr.com/2020/06/how-hack-wifi.html
