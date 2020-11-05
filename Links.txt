@@ -44,3 +44,7 @@ https://github.com/yaronn/blessed-contrib
 
 metasploit 
 http://www.tech-hall.com/%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/explain-metasploit-and-how-to-use-it/
+ 
+ حل مشكله تكبير الشاشة ونقل الملفات
+ sudo apt-get install open-vm-tools-desktop fuse
+
