@@ -56,3 +56,6 @@ apt-get -y install  network-manager-openvpn network-manager-openvpn-gnome  netwo
 
 aircrack:
 https://www.shadowhackr.com/2020/06/how-hack-wifi.html
+
+wordlist:
+https://weakpass.com/wordlist
